@@ -1,4 +1,8 @@
 # Angular Homes App
+
+My attempt at learning from the Homes app from the [Angular Course on YouTube](https://angular.dev/tutorials/first-app/).
+
+## Original Instructions
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
